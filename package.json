@@ -1,0 +1,25 @@
+{
+  "name": "on6-xp-s9-exeblogreprograma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilapessoa/on6-xp-s9-exeBlogReprograma.git"
+  },
+  "author": "\u001b[A\u001b[C\u001b[B\u001b[D\u001b[D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilapessoa/on6-xp-s9-exeBlogReprograma/issues"
+  },
+  "homepage": "https://github.com/camilapessoa/on6-xp-s9-exeBlogReprograma#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
